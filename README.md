@@ -32,5 +32,7 @@ I'm a motivated and detail-oriented computer science student at INHA University 
 ## 📈 GitHub Stats
 ![Davronbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dav0407&show_icons=true&theme=radical)
 
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Dav0407.Dav0407)
+
 ## 💬 Let's Connect!
 Feel free to reach out to me for collaboration on innovative projects or just to chat about coding and technology!
