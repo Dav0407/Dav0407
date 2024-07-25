@@ -1,5 +1,7 @@
 # Hi there, I'm Davronbek Normamatov! 👋
 
+![Profile Banner](https://user-images.githubusercontent.com/XXX/your-banner-image.png)
+
 ## 👨‍💻 About Me
 I'm a motivated and detail-oriented computer science student at INHA University in Tashkent, specializing in software engineering. My passion lies in Java development, and I'm eager to apply my knowledge and enhance my skills in real-world environments. I'm passionate about coding and love to contribute to innovative projects.
 
@@ -31,8 +33,6 @@ I'm a motivated and detail-oriented computer science student at INHA University 
 
 ## 📈 GitHub Stats
 ![Davronbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dav0407&show_icons=true&theme=radical)
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Dav0407.Dav0407)
 
 ## 💬 Let's Connect!
 Feel free to reach out to me for collaboration on innovative projects or just to chat about coding and technology!
