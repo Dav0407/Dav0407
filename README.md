@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Davronbek Normamatov! 👋
 
-<!--
-**Dav0407/Dav0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a motivated and detail-oriented computer science student at INHA University in Tashkent, specializing in software engineering. My passion lies in Java development, and I'm eager to apply my knowledge and enhance my skills in real-world environments. I'm passionate about coding and love to contribute to innovative projects.
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Languages:** Java, Bash
+- **Frameworks:** Spring Framework, Spring Boot, Spring Data JPA
+- **Web Development:** REST API, Java Web Application
+- **Database Management:** PostgreSQL, MySQL
+- **Other:** Object Oriented Programming, Data Structures, Multithreading, Linux, Git, Maven, IntelliJ IDEA, Debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/davron-normamatov-853b001a6)
+- 📧 Email: [davronnormamatov004@gmail.com](mailto:davronnormamatov004@gmail.com)
+  
+
+## 🎓 Education
+- **Bachelor of Computer Science and Software Engineering**
+  - INHA University in Tashkent (2022 - 2026)
+  - Junior
+
+## 🌐 Languages
+- **English:** B2
+- **Uzbek:** Native
+- **Russian:** C1
+
+## 🌱 I’m currently learning
+- Microservice architecture
+- Spring Security
+
+## 📈 GitHub Stats
+![Davronbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dav0407&show_icons=true&theme=radical)
+
+## 💬 Let's Connect!
+Feel free to reach out to me for collaboration on innovative projects or just to chat about coding and technology!
